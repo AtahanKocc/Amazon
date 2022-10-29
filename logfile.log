@@ -1,0 +1,321 @@
+2022-10-28 18:04:33,028 INFO  [Log] search_a_product() PASSED 
+2022-10-28 18:04:36,846 INFO  [Log] select_a_product() PASSED 
+2022-10-28 18:04:44,711 INFO  [Log] add_product_to_cart() PASSED 
+2022-10-28 18:04:47,681 INFO  [Log] go_to_cart() PASSED 
+2022-10-28 23:00:05,342 INFO  [Log] search_a_product() PASSED 
+2022-10-28 23:00:05,432 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-28 23:00:05,492 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51336}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: c02b47141024cc22b7e00385bafee840
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-28 23:00:07,786 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-28 23:00:51,031 INFO  [Log] search_a_product() PASSED 
+2022-10-28 23:00:51,199 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-28 23:00:51,303 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51402}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2fbaccf54f970802c87abe9a8c9f6d3d
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-28 23:00:54,978 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-28 23:01:21,264 INFO  [Log] search_a_product() PASSED 
+2022-10-28 23:01:21,447 ERROR [Log] select_a_product() FAILED with cause : Index 2 out of bounds for length 0 
+2022-10-28 23:01:21,566 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51458}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1fc65dced2454c17a3e8507e92bdefef
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-28 23:01:25,020 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-28 23:02:22,170 INFO  [Log] search_a_product() PASSED 
+2022-10-28 23:02:22,299 ERROR [Log] select_a_product() FAILED with cause : Index 0 out of bounds for length 0 
+2022-10-28 23:02:22,370 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51528}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3f726a34f2469802a6cfbcfbbc56a14c
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-28 23:02:26,845 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-28 23:04:49,054 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-28 23:06:23,758 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-28 23:07:30,202 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-28 23:09:10,583 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-28 23:11:09,201 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-28 23:12:39,455 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-28 23:13:36,852 ERROR [Log] add_product_to_cart() FAILED with cause : Cannot invoke "pages.ProductDetailPage.addToCart()" because "this.productDetailPage" is null 
+2022-10-28 23:14:43,626 INFO  [Log] search_a_product() PASSED 
+2022-10-28 23:14:43,756 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-28 23:14:43,855 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:51990}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 76a7283688da20fad7ef55b43329e9ce
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-28 23:14:46,379 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 11:31:26,671 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:31:26,688 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 11:31:26,714 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60632}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: cbfcb3b123eee502581418ae97f4715e
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 11:31:29,573 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 11:35:10,678 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-29 11:36:05,841 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:36:05,858 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 11:36:05,888 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:60783}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 815579dac779e96c9d09b3189332c38e
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 11:36:08,878 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 11:39:04,935 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-29 11:39:17,501 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-29 11:39:51,589 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-29 11:40:15,623 ERROR [Log] select_a_product() FAILED with cause : Cannot invoke "pages.ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2022-10-29 11:40:30,798 ERROR [Log] add_product_to_cart() FAILED with cause : Cannot invoke "pages.ProductDetailPage.addToCart()" because "this.productDetailPage" is null 
+2022-10-29 11:40:49,943 ERROR [Log] add_product_to_cart() FAILED with cause : Cannot invoke "pages.ProductDetailPage.addToCart()" because "this.productDetailPage" is null 
+2022-10-29 11:43:23,895 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:43:23,911 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 11:43:23,937 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:61189}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fb5628ddc83c8f688198d4e84b8c3e69
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 11:43:26,207 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 11:46:36,671 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:46:36,687 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 11:46:36,742 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:61336}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6ace553f5c82ae6018c33d3479ed44b
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 11:46:39,616 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 11:51:40,935 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#\32 1"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:61536}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aa978d91f59034a826ed6efe02cd8f3f
+*** Element info: {Using=id, value=21} 
+2022-10-29 11:51:40,955 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 11:51:40,972 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:61536}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: aa978d91f59034a826ed6efe02cd8f3f
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 11:51:43,163 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 11:54:14,271 ERROR [Log] select_a_product() FAILED with cause : Cannot invoke "pages.ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2022-10-29 11:54:41,214 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#\32 1"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:61700}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8bd4f2769c8ffb4c311c8356f74b01c5
+*** Element info: {Using=id, value=21} 
+2022-10-29 11:54:41,235 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 11:54:41,255 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:61700}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8bd4f2769c8ffb4c311c8356f74b01c5
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 11:54:43,974 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 11:55:21,636 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:55:55,974 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:56:30,527 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:57:28,915 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:58:18,084 INFO  [Log] search_a_product() PASSED 
+2022-10-29 11:58:18,099 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 11:58:18,122 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:62054}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 7cf8c3d3e6d61b0f91f4657b8d1b9c00
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 11:58:21,993 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 12:04:32,305 ERROR [Log] select_a_product() FAILED with cause : Cannot invoke "pages.ProductsPage.selectProduct(int)" because "this.productsPage" is null 
+2022-10-29 12:08:18,220 INFO  [Log] search_a_product() PASSED 
+2022-10-29 12:08:18,237 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 12:08:18,263 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:62266}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d6750d6e5527d11f20bcabc94a85641a
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:08:24,014 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 12:26:27,973 INFO  [Log] search_a_product() PASSED 
+2022-10-29 12:26:27,989 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 12:26:28,014 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:62869}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 06a57077ab49a33b471a598b65759a04
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:26:30,254 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 12:29:08,843 INFO  [Log] search_a_product() PASSED 
+2022-10-29 12:29:08,865 ERROR [Log] select_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:62977}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b0985a9f925ed54f09079d989165b74
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:29:08,884 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:62977}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 8b0985a9f925ed54f09079d989165b74
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:29:11,172 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 12:30:04,505 INFO  [Log] search_a_product() PASSED 
+2022-10-29 12:38:51,271 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 12:38:51,295 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:63030}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0db9b5e04024b42e731edb1d002597df
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:39:07,802 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#MAIN\-SEARCH_RESULTS\-3"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:63623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 91cbc6e71a612e4ad6f63c6144840b78
+*** Element info: {Using=id, value=MAIN-SEARCH_RESULTS-3} 
+2022-10-29 12:39:07,820 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 12:39:07,833 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:63623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 91cbc6e71a612e4ad6f63c6144840b78
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:39:10,921 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 12:45:50,058 ERROR [Log] search_a_product() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#MAIN\-SEARCH_RESULTS\-3"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:63862}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d70f74938a61be83189cff188044af53
+*** Element info: {Using=id, value=MAIN-SEARCH_RESULTS-3} 
+2022-10-29 12:45:50,076 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 12:45:50,096 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:63862}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: d70f74938a61be83189cff188044af53
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:45:53,342 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 12:54:17,811 INFO  [Log] search_a_product() PASSED 
+2022-10-29 12:54:17,827 ERROR [Log] select_a_product() FAILED with cause : Index 4 out of bounds for length 0 
+2022-10-29 12:54:17,853 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:64085}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 6356d2785e5e9a57d91f0fab18f9435f
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:54:20,912 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 12:54:39,439 INFO  [Log] search_a_product() PASSED 
+2022-10-29 12:54:39,456 ERROR [Log] select_a_product() FAILED with cause : Index 4 out of bounds for length 0 
+2022-10-29 12:54:39,507 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:64144}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 2d77191f43f02f4c2189a6893a06b3a2
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 12:54:43,235 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 12:55:53,395 ERROR [Log] add_product_to_cart() FAILED with cause : Cannot invoke "pages.ProductDetailPage.addToCart()" because "this.productDetailPage" is null 
+2022-10-29 12:56:13,879 ERROR [Log] go_to_cart() FAILED with cause : Cannot invoke "pages.HomePage.goToCart()" because "this.homePage" is null 
+2022-10-29 13:39:17,339 INFO  [Log] search_a_product() PASSED 
+2022-10-29 13:39:17,355 ERROR [Log] select_a_product() FAILED with cause : Index 1 out of bounds for length 0 
+2022-10-29 13:39:17,377 ERROR [Log] add_product_to_cart() FAILED with cause : no such element: Unable to locate element: {"method":"css selector","selector":"#add\-to\-cart\-button"}
+  (Session info: chrome=107.0.5304.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-G0AGDRK6', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '19.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 107.0.5304.87, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\HP\AppData\Local\T...}, goog:chromeOptions: {debuggerAddress: localhost:57827}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 76d5ce82d50865c864fba0cb8c1df469
+*** Element info: {Using=id, value=add-to-cart-button} 
+2022-10-29 13:39:19,766 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
+2022-10-29 13:45:26,574 INFO  [Log] search_a_product() PASSED 
+2022-10-29 13:45:31,507 INFO  [Log] select_a_product() PASSED 
+2022-10-29 13:45:33,841 INFO  [Log] add_product_to_cart() PASSED 
+2022-10-29 13:45:36,060 ERROR [Log] go_to_cart() FAILED with cause : Product was not added to cart! ==> expected: <true> but was: <false> 
